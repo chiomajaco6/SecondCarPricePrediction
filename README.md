@@ -24,6 +24,7 @@ The following packages are required to run the notebook:
 - matplotlib
 - sklearn
 - keras
+- seaborn
 
 You can install all of the required packages by running the following command in your terminal:
 
