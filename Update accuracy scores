@@ -51,4 +51,4 @@ In a browser window, open the specified address (http://127.0.0.1:8000), specify
 And there you have a successful prediction!
 
 ## Conclusion
-Overall, the best model for predicting the car prices was the Decision Tree model model, with a R2 score of 36.66%. The Random Forest model had a R2 score of 36.8%, while the XGBoost model had a a R2 score of 36.92%
+Overall, the best model for predicting the car prices was the Random Forest model, with a R2 score of 88.12%. The neural network powered by MLPRegressor model had a R2 score of 73.34%, while the SVR model had a a R2 score of 70.23%
